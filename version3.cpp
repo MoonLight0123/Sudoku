@@ -11,6 +11,8 @@
 using namespace std;
 
 
+
+
 int map[9][9];
 int solveNum=0;
 struct pos//坐标
